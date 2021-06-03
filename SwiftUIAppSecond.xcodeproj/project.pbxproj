@@ -11,6 +11,7 @@
 		04E843CE26694A5700201D41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E843CD26694A5700201D41 /* ContentView.swift */; };
 		04E843D026694A5E00201D41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E843CF26694A5E00201D41 /* Assets.xcassets */; };
 		04E843D326694A5E00201D41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E843D226694A5E00201D41 /* Preview Assets.xcassets */; };
+		04E843DC26695EFB00201D41 /* TableImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E843DB26695EFB00201D41 /* TableImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		04E843CF26694A5E00201D41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04E843D226694A5E00201D41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04E843D426694A5E00201D41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04E843DB26695EFB00201D41 /* TableImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				04E843CB26694A5700201D41 /* SwiftUIAppSecondApp.swift */,
 				04E843CD26694A5700201D41 /* ContentView.swift */,
+				04E843DB26695EFB00201D41 /* TableImageView.swift */,
 				04E843CF26694A5E00201D41 /* Assets.xcassets */,
 				04E843D426694A5E00201D41 /* Info.plist */,
 				04E843D126694A5E00201D41 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				04E843CE26694A5700201D41 /* ContentView.swift in Sources */,
 				04E843CC26694A5700201D41 /* SwiftUIAppSecondApp.swift in Sources */,
+				04E843DC26695EFB00201D41 /* TableImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
